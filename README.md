@@ -70,7 +70,7 @@ Name | Description
 --- | ---
 **[RecyclerTreeView](https://github.com/TellH/RecyclerTreeView)** | TreeView implement in Android with RecyclerView
 
-## Badget
+## Badge
 Name | Description
 --- | ---
 **[MaterialBadgeTextView](https://github.com/matrixxun/MaterialBadgeTextView)** | As the name describes, this is an Android library that you can use to show new messages badge and new features badge
