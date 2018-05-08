@@ -5,7 +5,15 @@ List of awesome Android libraries. Feel free to contrubute.
 ## Index
 - [SVG and image](#svg-and-image)
 - [UI validation](#ui-validation)
-- [View](#view)
+- [View]
+  - [Panel](#panel)
+  - [Button](#button)
+  - [SeekBar](#seekbar)
+  - [Spinner](#spinner)
+  - [Picker](#picker)
+  - [Recycler](#recycler)
+  - [Badge](#badge)
+  - [Other](#other)
 - [Map](#map)
 - [Chart](#chart)
 - [Database](#database)
@@ -29,19 +37,48 @@ Name | Description
 --- | ---
 **[Android saripaar](https://github.com/ragunathjawahar/android-saripaar)** | UI form validation library for Android
 
-## View
+## Panel
+Name | Description
+--- | ---
+**[AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel)** | This library provides a simple way to add a draggable sliding up panel (popularized by Google Music and Google Maps) to your Android application. Brought to you by Umano
+**[android-material-stepper](https://github.com/stepstone-tech/android-material-stepper)** | This library allows to use Material steppers inside Android applications
+
+## Button
+Name | Description
+--- | ---
+**[FloatingActionButton](https://github.com/Clans/FloatingActionButton)** | Android Floating Action Button based on Material Design specification
+
+## Seekbar
+Name | Description
+--- | ---
+**[fluid-slider-android](https://github.com/Ramotion/fluid-slider-android)** | :octocat: :droplet: A slider widget with a popup bubble displaying the precise value selected. Android library made by @Ramotion
+**[material-range-bar](https://github.com/oli107/material-range-bar)** | Android widget for selecting a range of values
+**[BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar)** | A beautiful Android custom seekbar, which has a bubble view with progress appearing upon when seeking
+
+## Spinner
+Name | Description
+--- | ---
+**[searchablespinner](https://github.com/michaelprimez/searchablespinner)** | Searchable Spinner
+
+## Picker
+Name | Description
+--- | ---
+**[CountryCodePickerProject](https://github.com/hbb20/CountryCodePickerProject)** | Country Code Picker (CCP) is an android library which provides an easy way to search and select country or international phone code. Also supports Android EditText phone mask and international phone validation
+
+## Recycler
+Name | Description
+--- | ---
+**[RecyclerTreeView](https://github.com/TellH/RecyclerTreeView)** | TreeView implement in Android with RecyclerView
+
+## Badget
 Name | Description
 --- | ---
 **[MaterialBadgeTextView](https://github.com/matrixxun/MaterialBadgeTextView)** | As the name describes, this is an Android library that you can use to show new messages badge and new features badge
-**[searchablespinner](https://github.com/michaelprimez/searchablespinner)** | Searchable Spinner
-**[AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel)** | This library provides a simple way to add a draggable sliding up panel (popularized by Google Music and Google Maps) to your Android application. Brought to you by Umano
-**[fluid-slider-android](https://github.com/Ramotion/fluid-slider-android)** | :octocat: :droplet: A slider widget with a popup bubble displaying the precise value selected. Android library made by @Ramotion
-**[CountryCodePickerProject](https://github.com/hbb20/CountryCodePickerProject)** | Country Code Picker (CCP) is an android library which provides an easy way to search and select country or international phone code. Also supports Android EditText phone mask and international phone validation
-**[RecyclerTreeView](https://github.com/TellH/RecyclerTreeView)** | TreeView implement in Android with RecyclerView
-**[android-material-stepper](https://github.com/stepstone-tech/android-material-stepper)** | This library allows to use Material steppers inside Android applications
-**[material-range-bar](https://github.com/oli107/material-range-bar)** | Android widget for selecting a range of values
-**[FloatingActionButton](https://github.com/Clans/FloatingActionButton)** | Android Floating Action Button based on Material Design specification
-**[BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar)** | A beautiful Android custom seekbar, which has a bubble view with progress appearing upon when seeking
+
+## Other
+Name | Description
+--- | ---
+**[WaveLoadingView](https://github.com/tangqi92/WaveLoadingView)** | An Android library providing to realize wave loading effect
 
 ## Map
 Name | Description
