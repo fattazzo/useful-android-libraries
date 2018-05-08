@@ -13,6 +13,10 @@ List of awesome Android libraries. Feel free to contrubute.
 - [Annotation](#annotation)
 - [IDE](#ide)
 
+## Other lists
+- **[thanhtoan1196/awesome-android-libraries](https://github.com/thanhtoan1196/awesome-android-libraries)**: :sunglasses: A curated list of awesome Android libraries
+- **[wasabeef/awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)**: This is an alphabetical list of libraries for Android development, the majority being actively maintained
+
 ## SVG and image
 Name | Description
 --- | ---
