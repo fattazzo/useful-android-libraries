@@ -41,6 +41,7 @@ Name | Description
 **[android-material-stepper](https://github.com/stepstone-tech/android-material-stepper)** | This library allows to use Material steppers inside Android applications
 **[material-range-bar](https://github.com/oli107/material-range-bar)** | Android widget for selecting a range of values
 **[FloatingActionButton](https://github.com/Clans/FloatingActionButton)** | Android Floating Action Button based on Material Design specification
+**[BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar)** | A beautiful Android custom seekbar, which has a bubble view with progress appearing upon when seeking
 
 ## Map
 Name | Description
