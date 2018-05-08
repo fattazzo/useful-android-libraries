@@ -8,7 +8,9 @@ List of awesome Android libraries. Feel free to contrubute.
 - [View](#view)
 - [Map](#map)
 - [Chart](#chart)
+- [Database](#database)
 - [Dialog](#dialog)
+- [Annotation](#annotation)
 - [IDE](#ide)
 
 ## SVG and image
@@ -47,11 +49,22 @@ Name | Description
 --- | ---
 **[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)** | A powerful :rocket: Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations
 
+## Database
+Name | Description
+--- | ---
+**[ActiveAndroid](https://github.com/pardom-zz/ActiveAndroid)** | Active record style SQLite persistence for Android
+
 ## Dialog
 Name | Description
 --- | ---
 **[material-dialogs](https://github.com/afollestad/material-dialogs)** | A beautiful, fluid, and customizable dialogs API
 **[LovelyDialog](https://github.com/yarolegovich/LovelyDialog)** |  This library is a set of simple wrapper classes that are aimed to help you easily create fancy material dialogs
+
+## Annotation
+Name | Description
+--- | ---
+**[declex](https://github.com/smaugho/declex)** | DecleX - Declarative Framework for Android, easier and faster coding
+**[androidannotations](https://github.com/androidannotations/androidannotations)** | Fast Android Development. Easy maintainance
 
 ## IDE
 Name | Description
